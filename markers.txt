@@ -1,7 +1,7 @@
 classnames=http://jedwatson.github.io/classnames
 object-assign=object-assign
 react=react.production.min.js
-react-dom=react-dom.production.min.
+react-dom=react-dom.production.min.js
 react-scheduler=react,scheduler.production.min.js
 react-is=react-is.production.min.js
 eventemitter2=https://github.com/EventEmitter2/EventEmitter2
