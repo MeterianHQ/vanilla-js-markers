@@ -6,4 +6,4 @@ react-scheduler=react,scheduler.production.min.js
 react-is=react-is.production.min.js
 eventemitter2=https://github.com/EventEmitter2/EventEmitter2
 eventemitter2=https://github.com/hij1nx/EventEmitter2
-buffer=buffer,module,browser
+buffer=buffer,module,node.js
